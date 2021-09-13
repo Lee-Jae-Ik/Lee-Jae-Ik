@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lee-Jae-Ik
+- 👀 I’m interested in Java,Spring,RDBMS,Restful
+- 🌱 I’m currently learning Java & Spring
+- 💞️ I am working here. OntactHealth for medical service server development.
+- 📫 How to reach me leeji0922@naver.com & leeji0922@gmail.com
